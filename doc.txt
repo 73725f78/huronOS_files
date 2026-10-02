@@ -1,3 +1,8 @@
 El archivo que contiene el url del hdf esta en:
 
 /run/initramfs/memory/system/huronOS/data/configs/sync-server.conf
+
+
+root@huronOS:/home/contestant# hos-wallpaper --automatic
+/tmp/verify-download-62044 /home/contestant
+/home/contestant
