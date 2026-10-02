@@ -21,12 +21,11 @@ Bookmarks=huronOS^https://huronos.org|
 AllowedWebsites=facebook.com
 AllowUsbStorage=false
 AvailableSoftware=internet/chromium|internet/crow|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/kdevelop|programming/pycharm|programming/sublime|programming/vim|programming/vscode|
-Bookmarks={Contest^https://google.com}|{BOCA_User_Manual^https://secsar.ddns.net}|
+Bookmarks={Contest^https://google.com}|{SECSAR^https://secsar.ddns.net}|
 Wallpaper=https://raw.githubusercontent.com/73725f78/huronOS_files/master/freebsd.png
 WallpaperSha256=01a764ed352a151b55d8374b40bc250f5a843bcc6892623a0631530aa59717a1
 
 [Event-Times]
 
 [Contest-Times]
-2023-05-13T13:40:00 2023-05-13T19:02:00
-2023-05-27T10:50:00 2023-05-27T16:12:00
+2026-10-02T01:00:00 2026-10-02T12:00:00
