@@ -22,8 +22,8 @@ AllowedWebsites=facebook.com
 AllowUsbStorage=false
 AvailableSoftware=internet/chromium|internet/crow|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/kdevelop|programming/pycharm|programming/sublime|programming/vim|programming/vscode|
 Bookmarks={Contest^https://google.com}|{SECSAR^https://secsar.ddns.net}|
-Wallpaper=https://raw.githubusercontent.com/73725f78/huronOS_files/master/freebsd.png
-WallpaperSha256=01a764ed352a151b55d8374b40bc250f5a843bcc6892623a0631530aa59717a1
+#Wallpaper=https://raw.githubusercontent.com/73725f78/huronOS_files/master/freebsd.png
+#WallpaperSha256=01a764ed352a151b55d8374b40bc250f5a843bcc6892623a0631530aa59717a1
 
 [Event-Times]
 
