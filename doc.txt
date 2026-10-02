@@ -1,0 +1,3 @@
+El archivo que contiene el url del hdf esta en:
+
+/run/initramfs/memory/system/huronOS/data/configs/sync-server.conf
