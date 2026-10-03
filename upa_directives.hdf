@@ -3,7 +3,7 @@ TimeZone=America/Mexico_City
 AvailableKeyboardLayouts=latam|us|es|dvorak|
 DefaultKeyboardLayout=us
 EventConfig=false
-ContestConfig=false
+ContestConfig=true
 
 [Always]
 AllowedWebsites=all
