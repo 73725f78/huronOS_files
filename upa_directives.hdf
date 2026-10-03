@@ -14,6 +14,8 @@ Bookmarks=SECSAR^https://secsar.ddns.net
 [Event]
 
 [Contest]
+Wallpaper=https://raw.githubusercontent.com/73725f78/huronOS_files/master/freebsd.png
+WallpaperSha256=01a764ed352a151b55d8374b40bc250f5a843bcc6892623a0631530aa59717a1
 
 [Event-Times]
 2026-10-01T00:00:00 2026-10-03T23:59:59
